@@ -1,4 +1,4 @@
-# TejoVM
+# TejosVM
 
 Minimal and tiny virtual machine inspired on OpenJDK, TinyVM, LejosVM and B2FJ
 
